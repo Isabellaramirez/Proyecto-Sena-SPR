@@ -1,0 +1,16 @@
+SELECT * FROM spr.mensajes_x_porta;
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (20, 1234567890, 1);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (20, 1234567890, 2);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (23, 1234567893, 3);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (23, 1234567893, 4);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (25, 1234567895, 5);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (25, 1234567895, 6);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (28, 1234567898, 7);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (28, 1234567898, 8);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (30, 123678910, 9);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (30, 123678910, 10);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (32, 123678912, 11);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (32, 123678912, 12);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (34, 123678914, 13);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (20, 1234567890, 14);
+insert into spr.mensajes_x_porta (portafolio_id_portafolio, portafolio_usuario_cedula, mensajeria_id_mensaje) values (34, 123678914, 15);
